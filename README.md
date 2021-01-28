@@ -1,4 +1,4 @@
-Copyright (C) 2020 Paranoid Android
+Copyright (C) 2021 Paranoid Android
 
 MiuiCamera from Xiaomi Mi A3
 =========================================
@@ -9,3 +9,5 @@ This repository can be used to ship Xiaomi's MiuiCamera app ported from the Mi A
 * Redmi Note 8 (ginkgo)
 * Redmi Note 8T (willow)
 * Xiaomi Mi A3 (laurel_sprout)
+* Redmi Note 9Pro / Pro Max / S (Miatoll) 
+* Poco M2 Pro (Miatoll)
